@@ -24,4 +24,9 @@ var oddEvenList = function(head) {
   return res
 };
 
+/**
+ * Runtime: 56 ms, faster than 96.97% of JavaScript online submissions for Odd Even Linked List.
+ * Memory Usage: 36.1 MB, less than 100.00% of JavaScript online submissions for Odd Even Linked List.
+ */
+
 // 09-24-19
