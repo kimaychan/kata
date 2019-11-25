@@ -6,7 +6,7 @@
  * Those numbers for which this process ends in 1 are happy numbers.
  * 
  * 
- * @param {number} n
+ * @param {number, array} 
  * @return {boolean}
  */
 
@@ -25,3 +25,5 @@ var isHappy = function(n, cycle) {
   
   return isHappy(sum, cycle)
 };
+
+// 11-25-19
