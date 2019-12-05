@@ -1,4 +1,6 @@
 /**
+ * Given an array of strings, group anagrams together.
+ * 
  * @param {string[]} strs
  * @return {string[][]}
  */
