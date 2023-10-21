@@ -29,3 +29,11 @@ const findLowestPositive = (arr) => {
 }
 
 console.log(findLowestPositive([3, 4, -1, 1]))
+
+
+function sayHello(n){
+  for(let i=0;i<n;i++){
+    console.log("Hello")
+  }
+}
+sayHello(3)
